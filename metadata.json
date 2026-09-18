@@ -1,0 +1,6 @@
+{
+  "name": "Movie Recommendation System",
+  "description": "Discover and get personalized movie recommendations based on your favorite genres, ratings, and preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
